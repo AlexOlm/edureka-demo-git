@@ -10,3 +10,5 @@ adding line from local/rebasebranch1
 adding line 2 from local/rebasebranch1
 
 adding line in remote/rebasebranch1
+
+adding line 2 in remote/rebasebranch1
