@@ -4,5 +4,7 @@ Adding a new line
 
 Adding a new line in rebase brach
 
+
 adding line from local/rebasebranch1
 
+adding line in remote/rebasebranch1
